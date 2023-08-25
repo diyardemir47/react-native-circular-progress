@@ -1,11 +1,16 @@
-# Sample Snack app
+# React Native Circular Progress
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A simple and customizable React Native component to display circular progress bars.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Overview
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+React Native Circular Progress is a lightweight and flexible component that allows you to incorporate circular progress bars into your React Native applications. With customizable options, you can easily adjust the appearance and behavior of the progress bar to suit your project's needs.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Installation
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/diyardemir47/react-native-circular-progress.git
+
+![asaw](https://github.com/diyardemir47/react-native-circular-progress/assets/99801830/890c2f56-6e4a-43f5-8e02-35d1aacf7898)
